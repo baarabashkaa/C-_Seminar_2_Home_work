@@ -78,3 +78,4 @@
 //     Console.WriteLine("Нет такого дня недели");
 // }
 
+// ThreadExceptionEventArgs
